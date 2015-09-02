@@ -1,4 +1,4 @@
-<?php namespace dark\DarkMigration;
+<?php namespace DarkTemplar\DarkMigration;
 
 use Illuminate\Database\Migrations\Migration as BaseMigration;
 use Illuminate\Support\Facades\Artisan;
