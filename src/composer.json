@@ -1,0 +1,19 @@
+{
+  "name": "dark/laravel-migration",
+  "description": "Extends Laravel migration",
+  "authors": [
+    {
+      "name": "Martin Hansen",
+      "email": "dark@darktemplar.dk"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "another-vendor/package": "1.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "dark\\DarkMigration\\": "src"
+    }
+  }
+}
