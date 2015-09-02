@@ -12,7 +12,7 @@
   },
   "autoload": {
     "psr-4": {
-      "dark\\DarkMigration\\": "src"
+      "DarkTemplar\\DarkMigration\\": "src"
     }
   }
 }
